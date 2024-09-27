@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "roidtc-techtrek4",
+  "private_key_id": "ed777a2429a72a60a2f71b7dbf17628cd22afccb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCGVvW9sdIsK5hE\nwZjHdeUo6J8C1bL/sH89iquDixlIBAAIorNjnp0yXGXsiEWXkt9Urw0IbcJBE5/V\n0nZ4xfncjru4TOpP+h+a4zC1aPenT2d39wXMC6b0YkYpQAUv7EY7lMsVkln74AT9\nIpXvI8KSt6fGXeCxyZZIvrGwftrlSREwZSifKiJSK0wNc3skk40ht9Bks5aukyXC\naKhIWwkooCLlrzoCxc+ctoHQEMcaXISZQskbsia78ng+PqWfnTDk51HN4K7Osvxh\nrPyF0J8OzGaqgW7yYkcryYeaTuOzBe75fKnVAyT/hPlvfwHMgbYlZhxn1CXopwZR\ncaQpqVQxAgMBAAECggEAPe53CcWhk9VhNElf6oxSYgKj08W66J9weWmlWlZVCFs3\nvMNtGf70j1QDdQD5vD/sj3jH9FvNUvz+EbAeB92VK/XtWrCy0L4JtfkI6okCqvIz\nTB3oYUH57O4lVDz8ZzRwyGT3HvHCZBjJk/1Oy9lbiRH72bpLrQq3KsAm4KwKs+rJ\nbKCKEb+5kMUBmykfq0vrcxyB+wTxHzGKIN9LAIHH8Op2tncQssfYCMw42oLAkn2u\nP/rArwbHOc8bocsv9jHXHvXWicTRR1ZoV1IWqWvW83oQSl+aaGP/pahZK4pmycvz\nrYrQwc0F27cbFv8wL6H0Z9VvBDgvTCVnI7Njk6x99QKBgQC8WDWjtkank+/8LBEm\n5sx38QpTRnVv1Se8lLWIidgN5JawdvhHqHE6iOuGskuhe6A2uIw9+5U0OFryBMLE\nefdTQhka7G8GsO84/l2VIHQSVLrlBGdI2gkPyEGK1AJL2UtV5kclMVowIdjZQkmo\nZJihhfvFsB07zJBsJHjbj28AjwKBgQC2mJHAUjhpcfW1z6+Y7gXuMkM1fWwvcKBQ\niyNnMRIfnkXUeeau5AglvAAK+vc0rMGrgDHzGgRWzlbjIBDftBES/BifHvb0zj8i\np3TN/Byq1E9HISADm/4leI/IwBEKeVLFqkgUjzUl5wKWbWYYB0XRseWQvIRgSELw\noGfmAPs/PwKBgCwjxBZk/nQBkKmZrj9esaaeX9waVCVsYA6rD0w7ed3vp30dtJwe\nlsKwGfqMSHtE3MxWPc+86T++wVmc0gR3zQW/JOERbge0aawCuO3dGDa/krlfadFC\nAAOp2+psO0mJWEV+XUgTI97J3+cyyM5lHPwlyVaQKpm8HFCrz4MtP0dzAoGAcmvx\nCb98MjeDbccTlpWxia5dh2ttG91L2K0YJlYNsVqRD7DD6dxjbqH8tOTHfG61fi77\nHgezqGHs+K7jZAuGl4r6MtxIjOehkKm2/E17+WDJvRz43sol3H1MPNR+2T1lrRAj\n0x5ag8HbUUCEtZH5IoqD/MrleSBPMlKSSQNcbikCgYA3E/ngSESxxJpAIdh12cvS\neW7ltiYYWAKpMKPqEm/Ek9zKpK1scrJyEJIwO6fFMt+pO6WOt/6dazOIErZENbTH\nQwB9iGsxMaNmo6yBYo42/otrxM5bh3fDKZ0CAm+qbOZSqJz7zJ4/aO1Ug0X+n426\nyNghjLNHNhzGIzP+nGekIA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "deploysa@roidtc-techtrek4.iam.gserviceaccount.com",
+  "client_id": "101898179605879612723",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deploysa%40roidtc-techtrek4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
